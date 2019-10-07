@@ -13,7 +13,7 @@
   background-image: -webkit-conic-gradient(red, orange, yellow, green, blue, indigo, violet);
   background-image: -ms-conic-gradient(red, orange, yellow, green, blue, indigo, violet);
  **/
-  background: conic-gradient(red, orange, yellow, green, blue, indigo, violet);
+  background: conic-gradient(red, orange, yellow, green, blue, indigo, violet, red);
   
   /** PLEASE DONT TOUCH
   background-image: -moz-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
