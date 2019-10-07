@@ -10,6 +10,8 @@
 .member_counter {
 
   background-image: -moz-conic-gradient(red, orange, yellow, green, blue, indigo, violet);
+  background-image: -webkit-conic-gradient(red, orange, yellow, green, blue, indigo, violet);
+  background-image: -ms-conic-gradient(red, orange, yellow, green, blue, indigo, violet);
  /**
   background-image: -moz-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
   background-image: -webkit-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
