@@ -3,7 +3,7 @@
 /* line 2, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .btn_1, .btn_2:hover, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
   background: rgb(255,229,5);
-  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(5,5,244,1) 50%, rgba(214,206,1,1) 100%);
+  background: linear-gradient(90deg, rgba(2,117,156,1) 0%, rgba(207,178,0,1) 50%, rgba(94,150,246,1) 100%);
 }
 
 /* line 6, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
